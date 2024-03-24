@@ -12,11 +12,11 @@ The goal of this project is to follow along with the tutorial series and create 
 
 Throughout the project, intermediate results for each lesson are saved in separate files (the files are named `Donut_{X}.blend`, where `{X}` represents the lesson number). These files allow for easy tracking of progress and provide a way to review the steps taken in each lesson.
 
-The final frames for the video with completed 3D scene and [the rendered video](./Frames/video.mp4) itself can be found in the `Frames` folder.
+The final frames for the video with completed 3D scene and [the rendered video](./Frames/video.mp4) itself can be found in the [`Frames`](./Frames/) folder.
 
 ## Assets
 
-Throughout the tutorial, I've used high quality models and materials from [Poliigon](https://www.poliigon.com/) to enhance the visual fidelity of my renders.
+Throughout the tutorial, I've used high quality models and materials from [Poliigon](https://www.poliigon.com/) to enhance the visual fidelity of my renders (check folders [`GlasswareWhiskeySet002`](./GlasswareWhiskeySet002/), [`PlantAgave002`](./PlantAgave002/), [`QuartziteDenali002`](./QuartziteDenali002/)).
 
 ## Software Used
 
